@@ -1,0 +1,11 @@
+.table-view {
+    -fx-background-color: transparent;
+    -fx-font-family: impact;
+    -fx-font-size: 30;
+    -fx-alignment: left;
+}
+
+.table-view .column-header .label {
+    -fx-background-color: transparent;
+    -fx-alignment: left;
+}
